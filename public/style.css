@@ -1,0 +1,28 @@
+
+#rowDiv{
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
+
+input[type="text"]{
+    height:40px;
+    font-size:20px;
+}
+
+#submit{
+    height:40px;
+    font-size:20px;
+    font-weight: bold;
+}
+
+.container{
+    margin:auto;
+    text-align: center;
+}
+
+#detail{
+    margin:auto;
+    padding: 5px;
+    background-color: #ADD8E6;
+}
